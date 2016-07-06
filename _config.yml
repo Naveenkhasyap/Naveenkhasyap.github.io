@@ -12,7 +12,7 @@ relative_permalinks: false
 title:            Naveen Kumar M
 tagline:          'Software Developer'
 description:      'Page about myself <a href="www.facebook.com/naveenkhasyap" target="_blank">n@vy</a>'
-url:              http://github.com/Naveenkhasyap
+url:              
 baseurl:          /
 
 author:
