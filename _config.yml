@@ -2,7 +2,7 @@
 gems: [jekyll-paginate]
 gems: [jekyll-gist]
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
