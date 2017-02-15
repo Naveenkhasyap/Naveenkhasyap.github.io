@@ -11,7 +11,7 @@ relative_permalinks: false
 # Setup
 title:            Naveen Kumar M
 tagline:          'Software Developer'
-description:      'Page about myself <a href="www.facebook.com/naveenkhasyap" target="_blank">n@vy</a>'
+description:      'Page about myself n@vy'
 url:              
 baseurl:          /
 
